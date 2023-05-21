@@ -1,6 +1,6 @@
 # Deploy CoreML on IOS for object detection
 
-> supporting models: [`YOLOv8`](https://github.com/ultralytics/yolov5), [`YOLOv5`](https://github.com/ultralytics/yolov5), [`YOLOv3`](https://github.com/ultralytics/yolov3), `MobileNetV2+SSDLite`
+> supporting models: (https://github.com/ultralytics/yolov5), [`YOLOv5`]
 
 ![platform-ios](https://img.shields.io/badge/platform-ios-lightgrey.svg)
 ![swift-version](https://img.shields.io/badge/swift-4.2-red.svg)
