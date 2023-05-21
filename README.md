@@ -24,6 +24,10 @@ git clone https://github.com/kaiven11/coreml_for_ios
 ### 2. Add the model to the project
 
 By default, the project uses the `yolov5s` model. 
+you can use `export-nms.py` to export pt to CoreML file.
+```shell
+python export-nms.py --include coreml --weights yolov5n.pt
+```
 ### 3. Set model name properly in `ViewController.swift`
 ### 4. Build and Run
 
