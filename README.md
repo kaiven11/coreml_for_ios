@@ -23,6 +23,7 @@ git clone https://github.com/kaiven11/coreml_for_ios
 ```
 ### 2. Add the model to the project
 
+Rename the `ObjectDetection-CoreML.PY` file to `ObjectDetection-CoreML.xcodeproj`,and use Xcode to open it.
 By default, the project uses the `yolov5s` model. 
 you can use `export-nms.py` to export pt to CoreML file.
 ```shell
